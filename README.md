@@ -1,4 +1,4 @@
-<img width="1312" height="160" alt="image" src="https://github.com/user-attachments/assets/b25b00bd-1609-40f9-b568-51e6cdeed9b2" /># 2b IMPLEMENTATION OF SLIDING WINDOW PROTOCOL
+# 2b IMPLEMENTATION OF SLIDING WINDOW PROTOCOL
 
 ## AIM
 
