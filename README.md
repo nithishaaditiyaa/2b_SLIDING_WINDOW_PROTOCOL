@@ -1,4 +1,4 @@
-# 2b IMPLEMENTATION OF SLIDING WINDOW PROTOCOL
+<img width="1312" height="160" alt="image" src="https://github.com/user-attachments/assets/b25b00bd-1609-40f9-b568-51e6cdeed9b2" /># 2b IMPLEMENTATION OF SLIDING WINDOW PROTOCOL
 
 ## AIM
 
@@ -84,6 +84,13 @@ skt.close()
 
 ## OUPUT
 
+<img width="1238" height="90" alt="image" src="https://github.com/user-attachments/assets/efa28b88-e672-47a4-bb04-cb0ccd763f6d" />
+
+
+
+
+
+<img width="1330" height="155" alt="image" src="https://github.com/user-attachments/assets/f490207a-0003-4802-85e7-ac4e776ec9a4" />
 
 
 ## RESULT
